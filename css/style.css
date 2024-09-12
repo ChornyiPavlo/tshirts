@@ -1059,6 +1059,8 @@ nav ul li:hover a {
   color: #fff;
 }
 .wrap__btn--PxHri--section{
+  background-image: url('../img/bg-desc.png');
+  background-size: cover;
   width: 914px;
   margin: 0 auto;
   min-height: 100vh;
